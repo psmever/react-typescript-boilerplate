@@ -1,8 +1,4 @@
-<a name="readme-top"></a>
-
-<br />
-
-<div style="text-align: center;"><h1>📚 STACKS</h1></div>
+<div style="text-align: center;"><h4>📚 STACKS</h4></div>
 
 <div style="text-align: center;">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="...">
@@ -14,16 +10,12 @@
 <br />
 
 <div style="text-align: center;">
-    <h3 style="text-align: center;">BoraMessenger Front-End</h3>
+    <h1 style="text-align: center;">BoraMessenger Front-End</h1>
 </div>
 
 ## BoraMessenger Project
 
 > 메신저 서비스 개발 스터디 결과물
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## 참고 문서
 
@@ -32,8 +24,12 @@ Prettier - [Set Up ESLint and Prettier in a React TypeScript App (2023)](https:/
 
 ## Contact
 
-박성민 - [@psmever](https://github.com/psmever) - psmever@gmail.com
-진하영 - [@Jin-composition](https://github.com/Jin-composition) - jinhy921207@naver.com
-우의명 - [@wem519](https://github.com/wem519) - psmever@gmail.com
+* 박성민 - [@psmever](https://github.com/psmever) - psmever@gmail.com
+* 진하영 - [@Jin-composition](https://github.com/Jin-composition) - jinhy921207@naver.com
+* 우의명 - [@wem519](https://github.com/wem519) - psmever@gmail.com
 
 Project Link: [https://localhost:3000](https://localhost:3000)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
