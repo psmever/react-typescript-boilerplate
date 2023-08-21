@@ -1,15 +1,16 @@
-import React from 'react';
-import TestComponent from '@Component/TestComponent'
+import TestComponent from '@Component/TestComponent';
 
-function App() {
-  return (
-    <div>
-        <div>Learn React</div>
-      <div>
-        <TestComponent/>
-      </div>
-    </div>
-  );
-}
+const App = () => {
+    return (
+        <div>
+            <div>
+                <p>Hello, World!!!</p>
+            </div>
+            <div>
+                <TestComponent />
+            </div>
+        </div>
+    );
+};
 
 export default App;

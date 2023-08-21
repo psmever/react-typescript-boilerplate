@@ -17,18 +17,18 @@
     <h3 align="center">BoraMessenger Front-End</h3>
 </div>
 
-
 ## BoraMessenger Project
 
 > 메신저 서비스 개발 스터디 결과물
-
-
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## 참고 문서
 
+ESLint and
+Prettier - [Set Up ESLint and Prettier in a React TypeScript App (2023)](https://javascript.plainenglish.io/set-up-eslint-and-prettier-in-a-react-typescript-app-2022-7d9a5f40b634)
 
 ## Contact
 

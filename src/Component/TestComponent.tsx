@@ -1,5 +1,5 @@
 const TestComponent = () => {
-    return <code>TestComponent</code>
-}
+    return <code>TestComponent</code>;
+};
 
-export default TestComponent
+export default TestComponent;
