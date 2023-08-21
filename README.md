@@ -2,19 +2,19 @@
 
 <br />
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div style="text-align: center;"><h1>📚 STACKS</h1></div>
 
-<div align=center>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=black">
-<img src="https://img.shields.io/badge/tailwindcss-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<div style="text-align: center;">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="...">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="...">
+<img src="https://img.shields.io/badge/typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=black" alt="...">
+<img src="https://img.shields.io/badge/tailwindcss-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="...">
 <br>
 </div>
 <br />
 
-<div align="center">
-    <h3 align="center">BoraMessenger Front-End</h3>
+<div style="text-align: center;">
+    <h3 style="text-align: center;">BoraMessenger Front-End</h3>
 </div>
 
 ## BoraMessenger Project
