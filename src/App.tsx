@@ -1,15 +1,20 @@
+import { TextStyles } from '@Styles';
 import TestComponent from '@Component/TestComponent';
+
+const {
+    Main: { Container, Hello, EtcWapper },
+} = TextStyles;
 
 const App = () => {
     return (
-        <div>
-            <div>
+        <Container>
+            <Hello>
                 <p>Hello, World!!!</p>
-            </div>
-            <div>
+            </Hello>
+            <EtcWapper>
                 <TestComponent />
-            </div>
-        </div>
+            </EtcWapper>
+        </Container>
     );
 };
 

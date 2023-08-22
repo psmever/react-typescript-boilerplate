@@ -17,5 +17,6 @@
         "noEmit": true,
         "jsx": "react-jsx"
     },
-    "include": ["src", ".eslintrc.js"]
+    "include": ["src", ".eslintrc.js", "**/*.d.ts", "**/*.ts", "**/*.tsx"],
+    "exclude": ["node_modules"]
 }
