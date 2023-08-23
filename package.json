@@ -1,0 +1,87 @@
+{
+    "name": "bora-messenger-frontend",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "build": "react-app-rewired build",
+        "format": "prettier - write src/**/*.ts{,x} - config .prettierrc",
+        "lint": "tsc --noEmit && eslint src/**/*.ts{,x} --cache --max-warnings=0",
+        "lint:fix": "eslint src/**/*.ts{,x} --fix",
+        "start": "react-app-rewired start",
+        "prepare": "husky install"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "dependencies": {
+        "@emotion/css": "^11.11.2",
+        "@emotion/react": "^11.11.1",
+        "@emotion/styled": "^11.11.0",
+        "@testing-library/jest-dom": "^5.17.0",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^13.5.0",
+        "@types/jest": "^27.5.2",
+        "@types/node": "^16.18.41",
+        "@types/react": "^18.2.20",
+        "@types/react-dom": "^18.2.7",
+        "husky": "^8.0.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "5.0.1",
+        "typescript": "^4.9.5",
+        "web-vitals": "^2.1.4"
+    },
+    "devDependencies": {
+        "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+        "@commitlint/cli": "^17.7.1",
+        "@commitlint/config-conventional": "^17.7.0",
+        "@emotion/babel-plugin": "^11.11.0",
+        "@typescript-eslint/eslint-plugin": "^6.4.0",
+        "@typescript-eslint/parser": "^6.4.0",
+        "autoprefixer": "^10.4.15",
+        "babel-plugin-macros": "^3.1.0",
+        "customize-cra": "^1.0.0",
+        "eslint": "^8.47.0",
+        "eslint-config-airbnb": "^19.0.4",
+        "eslint-config-airbnb-typescript": "^17.1.0",
+        "eslint-config-prettier": "^9.0.0",
+        "eslint-import-resolver-typescript": "^3.6.0",
+        "eslint-plugin-import": "^2.28.1",
+        "eslint-plugin-json-format": "^2.0.1",
+        "eslint-plugin-jsx-a11y": "^6.7.1",
+        "eslint-plugin-prettier": "^5.0.0",
+        "eslint-plugin-react": "^7.33.2",
+        "eslint-plugin-react-hooks": "^4.6.0",
+        "postcss": "^8.4.28",
+        "prettier": "^3.0.2",
+        "react-app-rewire-alias": "^1.1.7",
+        "react-app-rewired": "^2.2.1",
+        "tailwindcss": "^3.3.3",
+        "twin.macro": "^3.4.0"
+    },
+    "engines": {
+        "node": ">=18.17.1",
+        "npm": "please-use-yarn",
+        "yarn": ">=1.22.19"
+    },
+    "babelMacros": {
+        "twin": {
+            "preset": "emotion"
+        }
+    }
+}
