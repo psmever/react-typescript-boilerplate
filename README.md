@@ -10,12 +10,24 @@
 <br />
 
 <div style="text-align: center;">
-    <h1 style="text-align: center;">BoraMessenger Front-End</h1>
+    <h1 style="text-align: center;">React Typescript Boilerplate</h1>
 </div>
 
-## BoraMessenger Project
+## Project
 
-> 메신저 서비스 개발 스터디 결과물
+> React Typescript Boilerplate
+
+## 라이브러리
+
+- [React](https://ko.legacy.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReactAppRewired](https://github.com/timarney/react-app-rewired)
+- [Emotion](https://emotion.sh/docs/introduction)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Twin.macro](https://github.com/ben-rogerson/twin.macro)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Husky](https://github.com/typicode/husky)
 
 ## 참고 문서
 
@@ -25,8 +37,6 @@ Prettier - [Set Up ESLint and Prettier in a React TypeScript App (2023)](https:/
 ## Contact
 
 * 박성민 - [@psmever](https://github.com/psmever) - psmever@gmail.com
-* 진하영 - [@Jin-composition](https://github.com/Jin-composition) - jinhy921207@naver.com
-* 우의명 - [@wem519](https://github.com/wem519) - psmever@gmail.com
 
 Project Link: [https://localhost:3000](https://localhost:3000)
 
